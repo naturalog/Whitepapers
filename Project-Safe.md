@@ -2,6 +2,38 @@ Version 1.4
 
 ## MaidSafe.net announces project SAFE to the community  ##
 
+**Table of Contents**
+
+	- [MaidSafe.net announces project SAFE to the community](#user-content-maidsafenet-announces-project-safe-to-the-community)
+			- [1. Introduction](#user-content-1-introduction)
+					- [MaidSafe Brief History](#user-content-maidsafe-brief-history)
+				- [2. Project Status](#user-content-2-project-status)
+				- [3. Proof Of Resource](#user-content-3-proof-of-resource)
+				- [4. Safecoin](#user-content-4-safecoin)
+				- [5. Project Proposition](#user-content-5-project-proposition)
+			- [6. Incentivisation and Coin Distribution](#user-content-6-incentivisation-and-coin-distribution)
+				- [End Users](#user-content-end-users)
+				- [Backers](#user-content-backers)
+					- [a: Current MaidSafe investors/shareholders.](#user-content-a-current-maidsafe-investorsshareholders)
+					- [b: Crowd Sale Participants](#user-content-b-crowd-sale-participants)
+				- [Developers](#user-content-developers)
+			- [7. SAFE Crowd Sale](#user-content-7-safe-crowd-sale)
+			- [8. The MaidSafe Foundation](#user-content-8-the-maidsafe-foundation)
+- [APPENDIX](#user-content-appendix)
+	- [Token System on SAFE Network](#user-content-token-system-on-safe-network)
+			- [1. Introduction](#user-content-1-introduction-1)
+			- [2. Trusted Group](#user-content-2-trusted-group)
+			- [3. Transfer Mechanism](#user-content-3-transfer-mechanism)
+			- [4. Proof Of Resource](#user-content-4-proof-of-resource)
+			- [5. Economic System With Two Types Of Token](#user-content-5-economic-system-with-two-types-of-token)
+			- [6. Safecoin Data Structure](#user-content-6-safecoin-data-structure)
+			- [7. Safecoin Requests / Persona Roles](#user-content-7-safecoin-requests--persona-roles)
+			- [8. Safecoin Transaction Structure / Scenarios](#user-content-8-safecoin-transaction-structure--scenarios)
+			- [9. Mining Safecoin](#user-content-9-mining-safecoin)
+			- [10.    Day 1 Injection](#user-content-10----day-1-injection)
+			- [11.    Summary](#user-content-11----summary)
+			- [References](#user-content-references)
+
 #### 1.	Introduction
 
 Existing Internet infrastructure is increasingly unable to cope with the demands placed on it by over [2.4 billion](http://www.internetworldstats.com/stats.htm) connected people, a number that is predicted to grow to [3.6 billion](http://newsroom.cisco.com/release/1197391/) by 2017. Today's architecture, where central intermediaries (servers) store and provide access to data is expensive and inefficient. Data centres use between [1.1% and 1.5%](http://www.koomey.com/post/8323374335) of the world's electricity (growing at 60% per annum) and represent significant expenditure for data centre owners, providers and businesses, who all have to pay to host user data and maintain the infrastructure. Security of user data has proven to be nearly impossible in today's networks with almost weekly reports of ID and password thefts.
